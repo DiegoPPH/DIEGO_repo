@@ -1,0 +1,22 @@
+.myswiper {
+    width: 100%;
+  height: auto; 
+    position: relative;
+    top: -50px;
+    
+    margin: 0 auto;    
+    padding: 0 20px;
+    width: 80vw; /* Ocupa el 80% del ancho de la ventana */
+  max-width: 1200px; /* Limita el tamaño máximo */
+}
+
+.correcciones {
+    background: #444B59;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
